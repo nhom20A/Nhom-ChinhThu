@@ -149,6 +149,7 @@ public class ChatFrame extends javax.swing.JFrame {
 
         jButton2.setText("Log Out");
 
+        lblUsername.setForeground(new java.awt.Color(0, 204, 0));
         lblUsername.setText("jLabel1");
 
         lblReceiver.setText("jLabel3");
